@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kasbotech_Identity", "Kasbotech_Identity\Kasbotech_Identity.csproj", "{12052CA7-27DD-4A84-AF16-173BB1872462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12052CA7-27DD-4A84-AF16-173BB1872462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12052CA7-27DD-4A84-AF16-173BB1872462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12052CA7-27DD-4A84-AF16-173BB1872462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12052CA7-27DD-4A84-AF16-173BB1872462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26658FF-2EA0-49F7-B3A3-0A3106BE9897}
+	EndGlobalSection
+EndGlobal
